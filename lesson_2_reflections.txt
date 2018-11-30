@@ -1,0 +1,4 @@
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+--stagging area is the area of which our commit will keep tract of the changes. the repository is the folder that contains all folders that are related to our peoject it may have files that are included in sytagging area and not in stagging area.working directory is the directoy in which we are currently working
+
